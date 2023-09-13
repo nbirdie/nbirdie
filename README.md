@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 
-My name is Kate, I am 28 years old and I'm a frontend developer. I want to work on interesting web-projects and have extensive teamwork experience.
+My name is Kate, I am 29 years old and I'm a frontend developer. I want to work on interesting web-projects and have extensive teamwork experience.
 
 📌 My Skills
 + React, Typescript. HTML, CSS (SCSS, Styled-components), JavaScript, Tailwind, Figma, Webpack
